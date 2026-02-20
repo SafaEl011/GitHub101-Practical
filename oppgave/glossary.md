@@ -1,6 +1,6 @@
 # Gloser
 
-**(eksempel) Glose:** - En kort definisjons av glosen. <!-- HOTSPOT: Denne vil endres under øvelsen -->
+**(eksempel) Glose:** - En kort definisjons av glosen. Har du hentet oppdateringen? <!-- HOTSPOT: Denne vil endres under øvelsen -->
 
 ## B
 - **Branch** - En gren av repository der man kan gjøre endringer uten å påvirke hovedkoden
